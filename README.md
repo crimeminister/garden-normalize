@@ -12,7 +12,7 @@ The library uses the scheme `x.y.z-n` where the major, minor, and patch levels m
 
 Add the following dependency to your `project.clj` file:
 
-[![Clojars Project](http://clojars.org/ca.clojurist.styles.normalize/latest-version.svg)](http://clojars.org/ca.clojurist.styles/normalize)
+[![Clojars Project](https://img.shields.io/clojars/v/ca.clojurist.styles/normalize.svg)](https://clojars.org/ca.clojurist.styles/normalize)
 
 Require the namespace containing the styles:
 
